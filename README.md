@@ -12,6 +12,8 @@ old typographic tradition. This way uppercase is easily distinguished from lower
 Because of its ascetic modular character and squarish proportions 
 Iceland webfont is easily integrated in modular grids and logotypes.
 
+![Iceland Font](iceland-font.png)
+
 Iceland is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
